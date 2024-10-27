@@ -6,7 +6,7 @@ const MainPage = () => {
     return(
         <div className="hero">
             <div className="mask">
-                <img className="into-img" src="./images/intro-bg2.jpg" alt="Сайт под ключ"/>
+            <img className="into-img" src="./images/intro-bg2.jpg" alt="Сайт под ключ"/>
             </div>
             <div className="content">
                 <p>Сайты под ключ.</p>

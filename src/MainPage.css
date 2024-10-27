@@ -43,10 +43,10 @@
   .content .btn {
     margin: 1rem 0.2rem;
   }
-  @media screen and (max-width: 640px) {
+  /*@media screen and (max-width: 640px) {
     .hero {
-        height: 50%;
-        width: 50%;
+        height: 20%;
+        width: 20%;
       }
     /*.hero .content h1 {
       font-size: 3rem;
@@ -56,7 +56,11 @@
     }
     .hero {
       padding: 70%;
-    }*/
+    }
   }
   @media screen and (max-width: 430px) {
-  }
+    .hero {
+      height: 50%;
+      width: 50%;
+    }
+  }*/

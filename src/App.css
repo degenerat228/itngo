@@ -91,6 +91,23 @@
     font-size: 1.4rem;
   }
   .hero {
-    padding: 70%;
+    /*padding: 70%;*/
+    margin-bottom: 100%
   }
 }
+@media screen and (max-width: 1368px) {
+  .hero {
+    margin-bottom: 60%;
+  }
+} 
+@media screen and (max-width: 882px) {
+  .hero {
+    margin-bottom: 100%;
+  }
+}
+/*@media screen and (max-width: 1024px) {
+  .hero {
+    margin-bottom: 40%;
+  }
+
+}*/
