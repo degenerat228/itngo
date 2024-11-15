@@ -95,14 +95,14 @@
     margin-bottom: 100%
   }
 }
-@media screen and (max-width: 1368px) {
+/*@media screen and (max-width: 1368px) {
   .hero {
     margin-bottom: 60%;
   }
-} 
+} */
 @media screen and (max-width: 882px) {
   .hero {
-    margin-bottom: 100%;
+    margin-bottom: 80%;
   }
 }
 /*@media screen and (max-width: 1024px) {

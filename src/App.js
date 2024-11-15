@@ -8,6 +8,7 @@ import PricingCard from './PricingCard';
 import Footer from './Footer';
 import Navbar from './Navbar';
 import MainPage from './MainPage';
+import MarketingBullshit from './MarketingBullshit';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <Navbar/>
     <MainPage/>
     <AboutContent/>
+    <MarketingBullshit/>
     <Work/>
     <PricingCard/>
     <Contact/>
